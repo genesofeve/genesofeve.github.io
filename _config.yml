@@ -36,7 +36,7 @@ avatar: ""
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: cogaps_crop.jpg
+ title-img: "cogaps_crop.jpg"
 
 # --- Background colour/image options --- #
 
@@ -73,11 +73,11 @@ author:
 social-network-links:
   rss: true
   email: "gsteinobrien@jhmi.edu"
-  github: genesofeve
-  twitter: genesofeve
+  github: "genesofeve"
+  twitter: "genesofeve"
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: gsteinobrien
+  linkedin: "gsteinobrien"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
