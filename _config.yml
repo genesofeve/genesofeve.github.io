@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Genevieve Stein-O'Brien 
+title: genesofeve 
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: 
 
 # --- Navigation bar options --- #
 
@@ -26,14 +26,14 @@ navbar-links:
   About Me: "aboutme"
   Packages:
     - projectR: "http://deanattali.com/beautiful-jekyll/"
-    - CoGAPS: "http://www.markdowntutorial.com/"
+    - CoGAPS: "https://github.com/FertigLab/CoGAPS"
 Author's home: "http://genesofeve.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: cogaps_crop.jpg
+ title-img: cogaps_crop.jpg
 
 # --- Background colour/image options --- #
 
