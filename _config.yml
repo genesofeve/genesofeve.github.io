@@ -23,9 +23,9 @@ description: ""
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Projects: "" 
   Packages:
-    - projectR: "http://deanattali.com/beautiful-jekyll/"
+    - projectR: "https://github.com/genesofeve/projectR"
     - CoGAPS: "https://github.com/FertigLab/CoGAPS"
   Publications: "Publications"
   CV: "CV"
