@@ -23,7 +23,9 @@ description: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Projects: "" 
+  Projects: 
+    - Retina Development: ""
+    - Cetuximab resistance timecourse: "https://github.com/genesofeve/projectR"
   Packages:
     - projectR: "https://github.com/genesofeve/projectR"
     - CoGAPS: "https://github.com/FertigLab/CoGAPS"
