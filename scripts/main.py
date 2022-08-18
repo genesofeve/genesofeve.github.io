@@ -140,7 +140,7 @@ def renderPage(pageName,**kwargs):
     print(template.render(**kwargs),file=outHandle)
 
 def nameBoldPubs(string):
-    return(re.sub('Stein\-O\'Brien,? G\.? ?[L]?\.?,?','<span class="font-weight-bold" style="font-size: 1.0rem"><u>Stein-O\'Brien GL</u></span>,',string))
+    return(re.sub('Stein-O\'Brien,? G\.? ?[L]?\.?,?','<span class="font-weight-bold" style="font-size: 1.0rem"><u>Stein-O\'Brien GL</u></span>,',string))
 
 env.filters['nameBoldPubs'] = nameBoldPubs
 
