@@ -22,6 +22,7 @@ pmIDs=['34329587',
 '34353350',
 '34660940',
 '34433496',
+'30143323',
 '33113347',
 '33600760',
 '33985562',
@@ -139,7 +140,7 @@ def renderPage(pageName,**kwargs):
     print(template.render(**kwargs),file=outHandle)
 
 def nameBoldPubs(string):
-    return(re.sub('Stein\-O\'Brien,? G\.? ?[L]?\.?,?','<span class="font-weight-bold" style="font-size: 1.0rem"><u>Stein\-O\'Brien GL</u></span>,',string))
+    return(re.sub('Stein\-O\'Brien,? G\.? ?[L]?\.?,?','<span class="font-weight-bold" style="font-size: 1.0rem"><u>Stein-O\'Brien GL</u></span>,',string))
 
 env.filters['nameBoldPubs'] = nameBoldPubs
 
