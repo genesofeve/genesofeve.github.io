@@ -49,7 +49,7 @@ pmIDs=['34329587',
 pmIDs.sort(reverse=True)
 
 print(f"Fetching {len(pmIDs)} publication records from Entrez...")
-Entrez.email="loyalgoff@gmail.com"
+Entrez.email="gsteinobrien@gmail.com"
 handle = Entrez.efetch(db="pubmed", id=pmIDs, rettype="medline",
                            retmode="text")
 
