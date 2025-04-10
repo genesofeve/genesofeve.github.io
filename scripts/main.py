@@ -101,10 +101,10 @@ preprintIDs = [
     "2022.07.09.499398",  # pyCoGAPS
     "2022.07.14.500096",
     "2022.08.04.502825",
-    # "37745323",  # Digitize your biology
-    # "38464021",  # Carlo
-    # "39005356",  # mult NMF
-    # "39386736",  # multiomics spatial
+    "2023.09.17.557982",  # Digitize your biology
+    "2024.02.26.581612",  # Carlo
+    "2024.07.01.599554",  # mult NMF
+    "2024.09.22.613714",  # multiomics spatial
 ]
 
 preprintIDs = reversed(preprintIDs)
