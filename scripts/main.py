@@ -110,9 +110,6 @@ preprintIDs = [
     "2024.02.26.581612",  # Carlo
     "2024.07.01.599554",  # mult NMF
     "2024.09.22.613714",  # multiomics spatial
-    "41292720",
-    "40950223",
-    "40777437",
 ]
 
 preprintIDs = reversed(preprintIDs)
